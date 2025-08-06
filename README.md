@@ -26,7 +26,7 @@ To create an interactive and insightful dashboard using Power BI that highlights
 7. **Slicer for State** (to filter data interactively)
 
 ## Dashboard Screenshot
-![Superstore Sales Dashboard](screenshots/Screenshot_2025-08-06_223846.png)
+![Superstore Sales Dashboard](https://github.com/Bagiliabdulrahman/Elevate-Labs---Task-2-Data-Visualization-Storytelling/blob/main/Screenshot%202025-08-06%20223846.png)
 
 ## Key Insights
 -  **West Region** generated the highest sales (~31.58%).
